@@ -3,4 +3,4 @@ A simple study done for neural networks, specifically for handwritten numbers 0-
 
 The set used was from the MNIST dataset.
 
-To view the notebook, simply click the NeuralNetwork-HandwrittenNumbers.ipynb file.
+<b>To view the notebook, simply click the NeuralNetwork-HandwrittenNumbers.ipynb file.</b>
